@@ -7,7 +7,7 @@ function rearranger(arr) {
 }
 
 
-// ------------------------------------------
+// -------------------hieeee
 
 
 // 2. Given an array of numbers, return the largest number in the array.
